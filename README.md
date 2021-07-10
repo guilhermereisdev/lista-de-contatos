@@ -18,4 +18,4 @@ Aborda o estudo de:
 
 #### Imagem
 
-![image-20210709225407650](C:\Users\guilh\AndroidStudioProjects\ListadeContatos\screeshot.png)
+![screeshot](C:\Users\guilh\AndroidStudioProjects\ListadeContatos\screeshot.png)
