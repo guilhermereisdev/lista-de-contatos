@@ -1,0 +1,2 @@
+br/com/guilhermereisapps/listadecontatos/BuildConfig.java
+ br.com.guilhermereisapps.listadecontatos.BuildConfig
